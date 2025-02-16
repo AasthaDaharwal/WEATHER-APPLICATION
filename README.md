@@ -1,2 +1,7 @@
 # WEATHER-APPLICATION
-Weather Application is a user-friendly web app that provides real-time weather updates for any location. It displays essential weather details such as temperature, humidity, wind speed, and weather conditions using a clean and interactive UI. Users can search for cities, view forecasts, and access weather data in a visually appealing format.
+COMPANY : CODETECH IT SOLUTIONS
+NAME : AASTHA DAHARWAL
+INTERN ID : CT120FLD
+DURATION : 4 WEEKS
+MENTOR : NEELA SANTOSH
+DESCRIPTION : A simple and intuitive weather application that provides real-time weather updates, forecasts, and location-based weather details with a clean and user-friendly interface.
